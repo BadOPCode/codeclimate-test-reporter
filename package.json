@@ -1,6 +1,6 @@
 {
   "name": "codeclimate-test-reporter",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Send test coverage results to code climate",
   "main": "index.js",
   "scripts": {
