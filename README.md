@@ -1,6 +1,6 @@
 # Code Climate Test Reporter Action
 
-
+[![Testing Node Versions 16.x, 18.x](https://github.com/BadOPCode/codeclimate-test-reporter/actions/workflows/ci.yml/badge.svg)](https://github.com/BadOPCode/codeclimate-test-reporter/actions/workflows/ci.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/bf8b5212f7473b28e230/maintainability)](https://codeclimate.com/github/BadOPCode/codeclimate-test-reporter/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/bf8b5212f7473b28e230/test_coverage)](https://codeclimate.com/github/BadOPCode/codeclimate-test-reporter/test_coverage)
 
